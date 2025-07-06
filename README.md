@@ -73,7 +73,8 @@ lower 4 bits of Port C, whereas the upper 4 bits can remain the same.
  *
 *	Created: 20/03/2025 3:00:38 pm
 *	Author : 
- */ 
+ */
+ 	 
 /*Preprocessor Directives
 
 #define F_CPU 8000000L → Defines the CPU clock speed at 8 MHz, necessary for the delay functions.
