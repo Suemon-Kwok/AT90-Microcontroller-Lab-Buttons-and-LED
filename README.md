@@ -1,4 +1,4 @@
-# AT90 Microcontroller Lab Buttons
+# AT90 Microcontroller Lab Buttons and LEDs
 
 /*
 Lab Week 3: Buttons and LEDs
