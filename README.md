@@ -7,7 +7,7 @@ Read the instructions about how the lab is organised on Canvas under Assessments
 
 Preparation: Try out the given examples on the lecture slides
 
-Study the lecture slides “ENEL608 Lecture 3b Buttons buzzer lamp”. Try out some of the examples.
+Study the lecture slides “3b Buttons buzzer lamp”. Try out some of the examples.
 
 Discuss what you don’t understand with peers in the lab and with the lab supervisor.
 
